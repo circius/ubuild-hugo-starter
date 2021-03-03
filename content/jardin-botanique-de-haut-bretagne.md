@@ -1,6 +1,5 @@
 +++
 date = ""
-draft = true
 layout = "blocks"
 title = "Jardin Botanique de Haut Bretagne"
 [[page_sections]]
